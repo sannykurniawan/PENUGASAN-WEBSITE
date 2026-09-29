@@ -1,0 +1,30 @@
+*{
+    margin: 10px ;
+    padding: 0px;
+}
+
+body{
+    margin-left: 5px;
+
+}
+a{
+    text-align: center;
+}
+table{
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.text-tengah{
+    text-align: center;
+
+}
+
+p,h1,h2,h3{
+    padding: 7px;
+}
+
+p{
+    font-size: 20px;
+}
